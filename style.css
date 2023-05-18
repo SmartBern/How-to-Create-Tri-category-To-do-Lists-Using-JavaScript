@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.heading
+{
+    text-align: center;
+    font-size: 24px;
+    background-color: salmon;
+    color: white;
+    height: 30px;
+}
+
+body
+{
+    background-image: url(/pexels-felix-mittermeier-956981.jpg);
+}
+
+section
+{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-top: 120px;
+}
+
+.home
+{
+    border: 2px groove;
+    text-align: center;
+    width: 350px;
+    height: fit-content;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgb(248, 171, 5);
+}
+
+h5
+{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: rgb(16, 255, 8);
+}
+
+.textfield1
+{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn1
+{
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.tdlist1
+{
+
+    width: 50%;
+    padding: 10px;
+    color: aliceblue;
+}
+
+.list
+{
+    background: linear-gradient(to left, #4221fa, #4b4f8f);
+    margin:10px;
+    padding: 5px;
+    border-left: solid 4px rgb(21, 255, 0);
+    font-size: 18px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 270px;
+    text-align: left;
+}
+
+.deletebtn1
+{
+    color: red;
+    width: 20px;
+    font-size: 20px;
+    background: transparent;
+    border: 0;
+}
+
+.workplace
+{
+    border: 2px groove;
+    text-align: center;
+    width: 350px;
+    height: fit-content;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgb(248, 171, 5);
+}
+
+.textfield2
+{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn2
+{
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.tdlist2
+{
+
+    width: 50%;
+    padding: 10px;
+    color: aliceblue;
+
+}
+
+.deletebtn2
+{
+    color: red;
+    width: 20px;
+    font-size: 20px;
+    background: transparent;
+    border: 0;
+}
+
+.grocerystore
+{
+    border: 2px groove;
+    text-align: center;
+    width: 350px;
+    height: fit-content;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px 0px rgb(248, 171, 5);
+}
+
+.textfield3
+{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.btn3
+{
+    width: 50px;
+    height: 30px;
+    background-color: aqua;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.tdlist3
+{
+
+    width: 50%;
+    padding: 10px;
+    color: aliceblue;
+
+}
+
+.deletebtn3
+{
+    color: red;
+    width: 20px;
+    font-size: 20px;
+    background: transparent;
+    border: 0;
+}
